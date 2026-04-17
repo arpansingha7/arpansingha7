@@ -126,8 +126,8 @@ const profile = {
 </div>
 
 <p align="center">
-<a href="https://github.com/arpansingha7/SkillBridge"><img src="https://img.shields.io/badge/ACCESS_SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/TRANSMISSION_LIVE-238636?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/arpansingha7/Hyperlocal-Hiring-Network"><img src="https://img.shields.io/badge/ACCESS_SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://hyperlocal-hiring-network.vercel.app/"><img src="https://img.shields.io/badge/TRANSMISSION_LIVE-238636?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
 <!-- VECTOR DIVIDER -->
