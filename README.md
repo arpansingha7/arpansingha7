@@ -25,7 +25,7 @@
 <p>
 <a href="https://www.linkedin.com/in/-arpansingha-"><img src="https://img.shields.io/badge/LinkedIn-Signal_Established-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 <a href="mailto:arpansingha7@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Feed-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://arpansingha7.github.io/"><img src="https://img.shields.io/badge/Portfolio-Transmission_Live-00D2FF?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://arpan-singha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Transmission_Live-00D2FF?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
 </div>
