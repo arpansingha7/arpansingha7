@@ -35,7 +35,7 @@
 
 <!-- SOCIAL CONNECTIVITY -->
 <p>
-<a href="https://linkedin.com/in/arpansingha7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/-arpansingha-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 <a href="mailto:arpansingha7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://arpansingha7.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-00D2FF?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
 </p>
@@ -240,7 +240,7 @@ A high-performance web platform revolutionizing the hyperlocal market. Engineere
 ║                                                                       ║
 ║   📬  CHANNELS                                                        ║
 ║   ─────────────────────────────────────────────────────────────────   ║
-║   ▸ LinkedIn: linkedin.com/in/arpansingha7                           ║
+║   ▸ LinkedIn: linkedin.com/in/-arpansingha-                          ║
 ║   ▸ Work: arpansingha7@gmail.com                                     ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
@@ -249,7 +249,7 @@ A high-performance web platform revolutionizing the hyperlocal market. Engineere
 <br/>
 
 <p>
-  <a href="https://linkedin.com/in/arpansingha7">
+  <a href="https://www.linkedin.com/in/-arpansingha-">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:arpansingha7@gmail.com">
