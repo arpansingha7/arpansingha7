@@ -26,6 +26,15 @@
 <img src="https://img.shields.io/badge/◆_SYSTEM_ARCHITECT-c9a227?style=for-the-badge&labelColor=0d1117" />
 </p>
 
+<!-- COMMAND CENTER STATUS -->
+<div align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/DEEP_WORK-GEOSPATIAL_AI_ENGINEERING-00e5ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CURRENT_STACK-NEXT.JS_|_MONGODB_2DSPHERE-ff3e00?style=for-the-badge&labelColor=0d1117" />
+  <br/>
+</div>
+
+
 <!-- REAL-TIME PROTOCOL CONNECTORS -->
 <p>
 <a href="https://www.linkedin.com/in/-arpansingha-"><img src="https://img.shields.io/badge/LinkedIn-Signal_Established-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
@@ -85,7 +94,13 @@ const profile = {
 <!-- TECHNOLOGY SPECTRUM -->
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,python,tensorflow,pytorch,aws,docker,git,html,css,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,figma" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,tensorflow,pytorch,sklearn,opencv" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,vscode,postman,github" />
   <br/><br/>
 </div>
 
@@ -111,27 +126,27 @@ const profile = {
 <td align="left" width="50%">
 
 #### ✦ Geospatial Architecture
-- **Engine**: MongoDB `2dsphere` Aggregation.
-- **Logic**: Real-time Haversine proximity calculations.
-- **Impact**: Reduced discovery latency by optimizing spatial queries.
+- 🌍 **Engine**: MongoDB `2dsphere` Aggregation.
+- ⚡ **Logic**: Real-time Haversine proximity calculations.
+- 📈 **Impact**: Reduced discovery latency via spatial indexing.
 
 #### ✦ Real-time Pipeline
-- **Sync**: Bidirectional `Socket.io` event flux.
-- **Flow**: Instant candidate-employer notification system.
-- **Tech**: Integrated JWT-secured WebSocket handshakes.
+- 🔄 **Sync**: Bidirectional `Socket.io` event flux.
+- 🔔 **Flow**: Instant candidate-employer notifications.
+- 🔐 **Tech**: JWT-secured WebSocket handshakes.
 
 </td>
 <td align="left" width="50%">
 
 #### ✦ AI Integration
-- **Voice**: Groq-powered `VoIP` to Text dictation.
-- **Accuracy**: NLP-refined registration models.
-- **Scalability**: Internationalization ready (i18next).
+- 🎙️ **Voice**: Groq-powered `VoIP` to Text dictation.
+- 🧠 **Accuracy**: NLP-refined registration models.
+- 🌐 **Scalability**: Internationalization ready (i18next).
 
 #### ✦ UI Performance
-- **Fluidity**: 60FPS physics via `Framer Motion`.
-- **Styling**: TailwindCSS Glassmorphic themes.
-- **SEO**: Dynamic metadata with `React Helmet`.
+- 🎬 **Fluidity**: 60FPS physics via `Framer Motion`.
+- 💎 **Styling**: TailwindCSS Glassmorphic themes.
+- 🔍 **SEO**: Dynamic metadata with `React Helmet`.
 
 </td>
 </tr>
@@ -221,6 +236,10 @@ const profile = {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower.&author=Steve%20Jobs" />
 </p>
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@arpansingha7?theme=rule34" alt="Visitors" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:000000,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
