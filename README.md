@@ -6,6 +6,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:121212,50:000000,100:1a1a1a&height=280&section=header&animation=fadeIn&text=ARPAN%20SINGHA&fontSize=85&fontColor=00E5FF&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20DATA%20SCIENTIST&descSize=25&descAlignY=65&descAlign=50" width="100%"/>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpansingha7&label=SYSTEM%20ACCESS&color=00e5ff&style=flat-square" alt="Visitor Count" />
+</div>
+
+
+<div align="center">
 
 <br/>
 
@@ -16,8 +21,8 @@
 
 <!-- PREMIUM DYNAMIC BADGES -->
 <p>
-<img src="https://img.shields.io/badge/◆_NEBULA_ENGINEER-00e5ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/◆_DATA_ALCHEMIST-ff3e00?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/◆_COMPUTER_SCIENCE_ENGINEER-00e5ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/◆_DATA_SCIENTIST-ff3e00?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/◆_SYSTEM_ARCHITECT-c9a227?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -76,6 +81,14 @@ const profile = {
 </tr>
 </table>
 </div>
+
+<!-- TECHNOLOGY SPECTRUM -->
+<div align="center">
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,python,tensorflow,pytorch,aws,docker,git,html,css,tailwind,figma" />
+  <br/><br/>
+</div>
+
 
 <!-- VECTOR DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -157,12 +170,13 @@ const profile = {
 
 <!-- THE 3D CONSTELLATION -->
 <p align="center">
-  <img src="https://github.com/arpansingha7/arpansingha7/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
+  <img src="https://raw.githubusercontent.com/arpansingha7/arpansingha7/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/arpansingha7/arpansingha7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/arpansingha7/arpansingha7/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 <!-- DETAILED ACTIVITY UNIVERSE -->
 <div align="center">
