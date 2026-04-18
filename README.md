@@ -145,6 +145,12 @@ const profile = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arpansingha7&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff3e00&currStreakNum=ffffff&currStreakLabel=00e5ff&sideNums=c9d1d9&sideLabels=8b949e" />
 </p>
 
+<!-- LANGUAGE & PRODUCTIVITY DRILL-DOWN -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpansingha7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&hide=jupyter%20notebook,tex" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpansingha7&theme=tokyonight&utcOffset=5.5" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpansingha7&custom_title=Impactful+Code+Pulse&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ff3e00&area_color=238636" width="100%" />
 </p>
@@ -157,6 +163,15 @@ const profile = {
 <p align="center">
   <img src="https://github.com/arpansingha7/arpansingha7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+<!-- DETAILED ACTIVITY UNIVERSE -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpansingha7&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpansingha7&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpansingha7&theme=tokyonight" width="32%" />
+</div>
+
+<br/>
 
 <!-- TROPHY CABINET -->
 <p align="center">
