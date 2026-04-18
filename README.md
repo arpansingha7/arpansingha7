@@ -181,11 +181,7 @@ const profile = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpansingha7&custom_title=Impactful+Code+Pulse&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ff3e00&area_color=238636" width="100%" />
 </p>
 
-<!-- THE 3D CONSTELLATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpansingha7/arpansingha7/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
-</p>
-
+<!-- THE CONTRIBUTIONS PULSE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/arpansingha7/arpansingha7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
