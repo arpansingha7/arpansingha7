@@ -41,6 +41,19 @@
 
 <br/>
 
+<!-- INTERACTIVE NAVIGATION BAR -->
+<p align="center">
+  <a href="#-system-architecture--core-mandate"><b>⚡ Overview</b></a> •
+  <a href="#-featured-flagship-systems"><b>🌟 Flagship Projects</b></a> •
+  <a href="#-pinned-repositories-matrix"><b>📌 Pinned Repos</b></a> •
+  <a href="#-technical-arsenal--ecosystem"><b>🛠️ Tech Arsenal</b></a> •
+  <a href="#-experience--academic-pedigree"><b>💼 Experience & Academics</b></a> •
+  <a href="#-real-time-contribution-pulse"><b>📊 Contribution Pulse</b></a> •
+  <a href="#-initiate-communication-transmission-"><b>📬 Connect</b></a>
+</p>
+
+<br/>
+
 ---
 
 <!-- ============================================================================== -->
@@ -88,17 +101,17 @@ const arpanSingha: SoftwareEngineer = {
 
 ### ⚡ Strategic Pillars
 
-- 🏛️ **Dual Academic Pedigree**
-  Pursuing double degrees across **Parul University** *(B.Tech CSE)* & **IIT Madras** *(BS Data Science)*.
+- 🏛️ **Dual Academic Pedigree**  
+  Pursuing dual degrees simultaneously across **Parul University** *(B.Tech CSE)* & **IIT Madras** *(BS Data Science)*.
 
-- 🤖 **Agentic & Voice AI Systems**
+- 🤖 **Agentic & Voice AI Systems**  
   Building autonomous multi-agent workflows, voice-to-text dictation pipelines (Groq / Whisper), and adaptive decisioning engines.
 
-- 🌍 **Geospatial & Spatial Indexing**
+- 🌍 **Geospatial & Spatial Indexing**  
   Specializing in real-time geospatial discovery engines utilizing **MongoDB `2dsphere`** spatial indexing and Haversine algorithms.
 
-- 💎 **High-Fidelity Engineering**
-  End-to-end craftsmanship: low-latency backends, WebSocket synchronization, and fluid UI performance.
+- 💎 **High-Fidelity Engineering**  
+  End-to-end craftsmanship: low-latency backends, WebSocket synchronization, and fluid 60FPS UI performance.
 
 </td>
 </tr>
@@ -141,6 +154,18 @@ const arpanSingha: SoftwareEngineer = {
 
 <br/>
 
+<details>
+<summary><b>🔍 Architectural Specifications & Technical Specs</b></summary>
+<br/>
+<ul>
+  <li><b>Spatial Partitioning</b>: Geospatial coordinate indexing indexing <code>Point</code> geometries with maximum radius boundaries.</li>
+  <li><b>Event Architecture</b>: Event-driven pub/sub design minimizing payload footprint across cellular bandwidths.</li>
+  <li><b>Security Layer</b>: Cross-origin HTTP-only token transport with HMAC signature validation.</li>
+</ul>
+</details>
+
+<br/>
+
 <div align="center">
   <a href="https://hyperlocal-hiring-network.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
@@ -169,6 +194,18 @@ const arpanSingha: SoftwareEngineer = {
   <img src="https://img.shields.io/badge/Agentic_AI-00A67E?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Structured_JSON-00599C?style=flat-square&logo=json&logoColor=white" />
 </div>
+
+<br/>
+
+<details>
+<summary><b>🔍 Architectural Specifications & Technical Specs</b></summary>
+<br/>
+<ul>
+  <li><b>Tool Execution</b>: Dynamic planning with runtime tool invocation and self-correcting validation cycles.</li>
+  <li><b>Evaluation Guardrails</b>: Faithfulness and answer-relevance scoring validating retrieved context alignment.</li>
+  <li><b>Output Formatting</b>: Deterministic Pydantic schema serialization for direct downstream ingestion.</li>
+</ul>
+</details>
 
 <br/>
 
@@ -206,6 +243,18 @@ const arpanSingha: SoftwareEngineer = {
 
 <br/>
 
+<details>
+<summary><b>🔍 Architectural Specifications & Technical Specs</b></summary>
+<br/>
+<ul>
+  <li><b>Recall Optimization</b>: Reciprocal Rank Fusion (RRF) merging dense and sparse ranking scores.</li>
+  <li><b>Context Compression</b>: Dynamic sliding-window summarization eliminating irrelevant token bloat.</li>
+  <li><b>Telemetry</b>: Per-query latency tracing across retrieval, reranking, and generation stages.</li>
+</ul>
+</details>
+
+<br/>
+
 <div align="center">
   <a href="https://github.com/arpansingha7/advanced-rag" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
@@ -231,6 +280,18 @@ const arpanSingha: SoftwareEngineer = {
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </div>
+
+<br/>
+
+<details>
+<summary><b>🔍 Architectural Specifications & Technical Specs</b></summary>
+<br/>
+<ul>
+  <li><b>Commodity Catalog</b>: Categorized taxonomy supporting perishable crop shelf-life tracking.</li>
+  <li><b>Real-time Price Feeds</b>: Aggregated mandi pricing data offering regional market benchmarks.</li>
+  <li><b>Accessible UX</b>: Minimal cognitive overhead layout optimized for vernacular-speaking farmers.</li>
+</ul>
+</details>
 
 <br/>
 
@@ -308,6 +369,37 @@ const arpanSingha: SoftwareEngineer = {
 ---
 
 <!-- ============================================================================== -->
+<!-- PINNED REPOSITORIES VISUAL MATRIX                                              -->
+<!-- ============================================================================== -->
+
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="28" alt="Pin" /> Pinned Repositories Matrix</h2>
+  <p><i>Direct interactive links to live codebase repositories and specifications</i></p>
+</div>
+
+<p align="center">
+  <a href="https://github.com/arpansingha7/Hyperlocal-Hiring-Network" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=arpansingha7&repo=Hyperlocal-Hiring-Network&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" width="49%" alt="Hyperlocal-Hiring-Network" />
+  </a>
+  <a href="https://github.com/arpansingha7/Production-AI-Research-Agent" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=arpansingha7&repo=Production-AI-Research-Agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" width="49%" alt="Production-AI-Research-Agent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arpansingha7/advanced-rag" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=arpansingha7&repo=advanced-rag&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" width="49%" alt="advanced-rag" />
+  </a>
+  <a href="https://github.com/arpansingha7/VitaCare-Health-Portal" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=arpansingha7&repo=VitaCare-Health-Portal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" width="49%" alt="VitaCare-Health-Portal" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<!-- ============================================================================== -->
 <!-- TECHNICAL ARSENAL & TOOLKIT                                                    -->
 <!-- ============================================================================== -->
 
@@ -377,6 +469,18 @@ const arpanSingha: SoftwareEngineer = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js,c,java,html,css,react,nextjs,nodejs,express,flask,tailwind,mongodb,postgres,sqlite,tensorflow,sklearn,aws,azure,docker,linux,git,github,postman,vscode&perline=13" alt="Skill Icons Matrix" />
   </a>
+</div>
+
+<br/>
+
+<!-- MULTILINGUAL COMMUNICATION HUD -->
+<div align="center">
+  <p>
+    <b>🗣️ Natural Communication Proficiency:</b>&nbsp;
+    <img src="https://img.shields.io/badge/English-Full_Professional-3b82f6?style=flat-square&logo=googletranslate&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Bengali-Native_/_Bilingual-34d399?style=flat-square&logo=googletranslate&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Hindi-Native_/_Bilingual-a78bfa?style=flat-square&logo=googletranslate&logoColor=white&labelColor=0d1117" />
+  </p>
 </div>
 
 <br/>
@@ -469,14 +573,16 @@ const arpanSingha: SoftwareEngineer = {
   </picture>
 </p>
 
-<!-- STATS DASHBOARD -->
+<!-- STATS DASHBOARD ROW 1 -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=arpansingha7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Arpan's GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arpansingha7&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff3e00&currStreakNum=ffffff&currStreakLabel=00e5ff&sideNums=c9d1d9&sideLabels=8b949e" alt="Arpan's Contribution Streak" />
 </p>
 
+<!-- STATS DASHBOARD ROW 2 -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arpansingha7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&hide=jupyter%20notebook,tex" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arpansingha7&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&hide=jupyter%20notebook,tex" alt="Top Languages Donut Chart" />
+  <img width="49%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Engineering Quote" />
 </p>
 
 <br/>
