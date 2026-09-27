@@ -14,32 +14,28 @@
 </p>
 
 <!-- EXECUTIVE CONNECTIVITY PILLS -->
-<div align="center">
+<p align="center">
   <a href="https://arpan-singha.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=090D16&labelColor=0d1117" alt="Portfolio" />
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=0D1117" alt="Portfolio" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/-arpansingha-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="mailto:arpansingha7@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-  </a>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" alt="Email" />
+  </a>&nbsp;
   <a href="https://arpan-singha.vercel.app/uploads/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View_Resume-10B981?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=0d1117" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledocs&logoColor=00E5FF&labelColor=0D1117" alt="Resume" />
   </a>
-</div>
+</p>
 
-<br/>
+<!-- SYSTEM STATUS TELEMETRY (CLEAN SINGLE-LINE, NO LOCATION) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-AI_Platform_Engineer_@_Predixion_AI-00e5ff?style=flat-square&logo=openai&logoColor=00e5ff&labelColor=0d1117" alt="Role" />&nbsp;
+  <img src="https://img.shields.io/badge/Academics-IIT_Madras_(BS)_%2B_Parul_Univ_(B.Tech)-a78bfa?style=flat-square&logo=academia&logoColor=a78bfa&labelColor=0d1117" alt="Academics" />&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=arpansingha7&label=VIEWS&color=00e5ff&style=flat-square&labelColor=0d1117" alt="Profile Views" />
+</p>
 
-<!-- SYSTEM STATUS TELEMETRY -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Current_Role-AI_Platform_Engineer_@_Predixion_AI-00e5ff?style=flat-square&logo=openai&logoColor=00e5ff&labelColor=0d1117" alt="Role" />
-  <img src="https://img.shields.io/badge/Academics-IIT_Madras_(BS)_%2B_Parul_Univ_(B.Tech)-a78bfa?style=flat-square&logo=academia&logoColor=a78bfa&labelColor=0d1117" alt="Academics" />
-  <img src="https://img.shields.io/badge/Location-Vadodara_%7C_Mumbai,_India-f59e0b?style=flat-square&logo=googlemaps&logoColor=f59e0b&labelColor=0d1117" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=arpansingha7&label=PROFILE%20VIEWS&color=00e5ff&style=flat-square&labelColor=0d1117" alt="Profile Views" />
-</div>
-
-<br/>
 
 ---
 
